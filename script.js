@@ -34,3 +34,5 @@ deleteTodo.addEventListener("click", (e) => {
   localStorage.clear()
   console.log(`All Todos removed`)
 })
+
+console.log("Todo app done!Basic")
